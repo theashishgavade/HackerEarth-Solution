@@ -1,2 +1,2 @@
-# HackerEarth-Solution
-Contains HackerEarth solutions in python3
+# HackerEarth Solutions
+Contains hackerearth solutions in python3
